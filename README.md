@@ -1,4 +1,10 @@
-ESP32RET
+ESP32RET fork for Waveshare ESP32-S3-RS485-CAN
+
+=======
+
+#### Arduino IDE board and settings:
+<img width="953" height="971" alt="2026-04-08_00-47-21_Arduino_IDE_20119" src="https://github.com/user-attachments/assets/4abfb176-1cb1-443e-8601-cf4d4298fdd2" />
+
 =======
 
 Reverse Engineering Tool running on ESP32 based hardware. Supports both EVTV ESP32 and Macchina A0
